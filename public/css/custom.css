@@ -1,0 +1,121 @@
+
+.header{
+    background-color: #FFF;
+}
+
+.sidebar-menu li a{
+    font-weight: 700;
+}
+
+.sidebar-brand {
+    background-color: #1184FF;
+}
+
+.sidebar-brand a {
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.grey-color {
+    color : rgba(50,50,50,0.5);
+}
+
+.search-element {
+    border : 2px solid rgba(50,50,50,0.2);
+    border-radius: 5px;
+}
+
+.dashboard-section a {
+    text-decoration: none;
+}
+
+.header-icon {
+    color : rgba(50,50,50,0.2);
+}
+
+.statistic-icon {
+    position: absolute;
+    right: 10px;
+    font-size: 60px;
+    color : rgba(255,255,255,0.7);
+    transition : 0.5s;
+}
+
+.card-statistic:hover .statistic-icon {
+    font-size: 65px;
+}
+
+.card-statistic {
+    padding : 20px;
+    border-radius: 10px;
+}
+
+.card-statistic h3 {
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.data-gardu {
+    background-color: #17A2B8;
+    color : white;
+}
+.data-pengukuran {
+    background-color: #28A745;
+    color : white;
+}
+
+.data-pengguna {
+    background-color: #DC3545;
+    color : white;
+}
+
+.box-content {
+    position: relative;
+}
+
+.box-content .card-wrap {
+    float: left;
+}
+.box-content .card-wrap .sum-data{
+    font-size: 40px;
+}
+
+.box-content .card-icon {
+    padding: 20px;
+    float: right;
+}
+
+.main-sidebar .sidebar-brand {
+    height: 70px;
+}
+
+.main-sidebar .sidebar-brand {
+    line-height: 70px;
+}
+
+.main-sidebar .sidebar-menu li:hover {
+    background-color : #dddddd;
+}   
+
+.main-sidebar .sidebar-menu li .active {
+    background-color : #dddddd;
+}  
+
+#map {
+    height: 500px;
+}
+
+#map-input {
+    /* position : absolute;
+    top:0;
+    right:0;
+    bottom:0;
+    left:0; */
+    height:500px;
+}
+
+
+
+/*###########################################
+            LIST PENGGUNA
+###########################################*/
